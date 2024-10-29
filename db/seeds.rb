@@ -36,3 +36,14 @@ Song.create(title:"djlove",user_id:3,studio_id:3)
 
 #############################################3
 
+Folder.create(fname:"liked",user_id:1,song_id:1)
+Folder.create(fname:"liked",user_id:1,song_id:2)
+Folder.create(fname:"liked",user_id:1,song_id:3)
+
+Folder.create(fname:"mine",user_id:2,song_id:4)
+Folder.create(fname:"mine",user_id:2,song_id:5)
+Folder.create(fname:"mine",user_id:2,song_id:6)
+
+Folder.create(fname:"ruby",user_id:3,song_id:7)
+Folder.create(fname:"ruby",user_id:3,song_id:8)
+Folder.create(fname:"ruby",user_id:3,song_id:9)
